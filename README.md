@@ -270,24 +270,20 @@ MVC 模式代表 Model-View-Controller（模型-视图-控制器） 模式。这
 
 ### 主界面
 
-<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/1588229853020.png" style="zoom: 50%;" />
+<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/1588229853020.png" width=50%/>
 
 - 上侧可以后撤、前进，url地址栏显示
 - 左侧目录树展开，并同步更新右侧文件列表
 
 ### 文件及文件夹拷贝
 
-<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/1588229881679.png" style="zoom:50%;" />
+<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/1588229881679.png" width=50% />
 
 右键粘贴，将子目录下所有文件（夹）粘贴
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200531234546513.png" alt="image-20200531234546513" style="zoom:50%;" />
-
-
-
 ### 解压压缩
 
-<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/1588230177743.png" style="zoom:50%;" />
+<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/1588230177743.png" width=50%/>
 
 
 
@@ -296,8 +292,6 @@ MVC 模式代表 Model-View-Controller（模型-视图-控制器） 模式。这
 ###  文件加密
 
 （以整数`int`类型为密钥，**加密需要等待一些时间**）
-
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200531234658165.png" alt="image-20200531234658165" style="zoom:50%;" />
 
 解密后，检查是否可以正常打开.
 
